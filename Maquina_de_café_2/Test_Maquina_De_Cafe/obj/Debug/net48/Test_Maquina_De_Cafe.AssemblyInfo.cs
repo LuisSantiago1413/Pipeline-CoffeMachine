@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test_Maquina_De_Cafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f7c4edf1b30c69a26cc2b18278b61665d4943cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4987799cdfec8d31ddf86e78d6b8c56b40f570e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test_Maquina_De_Cafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test_Maquina_De_Cafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
