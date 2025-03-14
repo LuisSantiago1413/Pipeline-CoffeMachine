@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Test_Maquina_De_Cafe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CoffeMachine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a5a2a9aa263a90717d53cf600a3b60d99c991e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Test_Maquina_De_Cafe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Test_Maquina_De_Cafe")]
+[assembly: System.Reflection.AssemblyProductAttribute("CoffeMachine")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CoffeMachine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

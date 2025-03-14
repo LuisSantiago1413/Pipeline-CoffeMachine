@@ -1,4 +1,4 @@
-using Maquina_de_café_2;
+using Maquina_de_cafÃ©_2;
 using NUnit.Framework;
 
 namespace Test_Maquina_De_Cafe
@@ -8,9 +8,9 @@ namespace Test_Maquina_De_Cafe
         [Test]
         public void deberiaDevolverTrueSiHayVasos()
         {
-            //La idea es pasarle el tamaño del vaso, y preguntarle si hay de esos vasos
-            Vaso vasoPequeño = new Vaso(10,2);
-            bool result = vasoPequeño.hayVasosDisponibles(2);
+            //La idea es pasarle el tamaÃ±o del vaso, y preguntarle si hay de esos vasos
+            Vaso vasoPequeÃ±o = new Vaso(10,2);
+            bool result = vasoPequeÃ±o.hayVasosDisponibles(2);
             Assert.IsTrue(result);
         }
 
@@ -26,7 +26,7 @@ namespace Test_Maquina_De_Cafe
         [Test]
         public void deberiaRestarCantidadDeVasos()
         {
-            //La idea es que el método me reste 1 vaso, por cada vez que lo invoque
+            //La idea es que el mÃ©todo me reste 1 vaso, por cada vez que lo invoque
             Vaso vasoGrande = new Vaso(10,3);
             int result = vasoGrande.restarVasos(3);
             Assert.AreEqual(9, result);

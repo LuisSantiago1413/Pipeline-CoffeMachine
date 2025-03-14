@@ -30,3 +30,19 @@ C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Document
 C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_.27A623AA.Up2Date
 C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.exe
 C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.pdb
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\Maquina_de_café_2.exe.config
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\Maquina_de_café_2.exe
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\Maquina_de_café_2.pdb
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\nunit.framework.dll
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\nunit.framework.legacy.dll
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\nunit.framework.xml
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\nunit.framework.legacy.xml
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.csproj.AssemblyReference.cache
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.csproj.CoreCompileInputs.cache
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_.27A623AA.Up2Date
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.exe
+C:\Users\3060\Desktop\CoffeMachine\Maquina_de_café_2\Maquina_de_café_2\obj\Debug\Maquina_de_café_2.pdb

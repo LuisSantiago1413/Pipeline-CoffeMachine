@@ -61,6 +61,24 @@ namespace Test_Maquina_De_Cafe
                     + " vasos " + tamaño + "s disponibles", 
                     maquinaCafe.getVasoDeCafe(tamañoVaso, cantidadCafe, cantidadAzucar));
         }
+
+        [Test]
+        public void deberiaAgregarCafe()
+        {
+        
+            Cafetera cafetera = new Cafetera(60);
+            cafetera.agregarCafe(30); 
+            Assert.AreEqual(90, cafetera.getCantidadCafe());
+        }
+
+        [Test]
+        public void noDeberiaSuperarCapacidadMaxima()
+        {
+        
+            Cafetera cafetera = new Cafetera(90);
+            cafetera.agregarCafe(20);
+            Assert.AreEqual(100, cafetera.getCantidadCafe());
+        }
     }
 }
          

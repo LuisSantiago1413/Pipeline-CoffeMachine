@@ -32,4 +32,45 @@ namespace Test_Maquina_De_Cafe
             Assert.AreEqual(30, cafetera.getCantidadCafe());
         }
     }
+
+    public class Cafetera
+{
+    private int cantidadCafe;
+    private int capacidadMaxima = 100;
+
+    public Cafetera(int cantidadInicial)
+    {
+        cantidadCafe = cantidadInicial;
+    }
+
+    public bool hayCafeDisponible(int cantidad)
+    {
+        return cantidadCafe >= cantidad;
+    }
+
+    public void restarCafe(int cantidad)
+    {
+        if (hayCafeDisponible(cantidad))
+        {
+            cantidadCafe -= cantidad;
+        }
+    }
+
+    public void agregarCafe(int cantidad)
+    {
+        if (cantidadCafe + cantidad <= capacidadMaxima)
+        {
+            cantidadCafe += cantidad;
+        }
+        else
+        {
+            cantidadCafe = capacidadMaxima; // No puede superar la capacidad máxima
+        }
+    }
+
+    public int getCantidadCafe()
+    {
+        return cantidadCafe;
+    }
+}
 }
