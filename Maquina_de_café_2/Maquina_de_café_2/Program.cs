@@ -17,7 +17,7 @@ namespace Maquina_de_café_2
         private static int tamañoVaso, cantidadCafe, cantidadAzucar;
         static void Main(string[] args)
         {
-            bool showMenu = true;
+            // bool showMenu = true;
             /*while (showMenu) 
             {
                 showMenu = MainMenu();
