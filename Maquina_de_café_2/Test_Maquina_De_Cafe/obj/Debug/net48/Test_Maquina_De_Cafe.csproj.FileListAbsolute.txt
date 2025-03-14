@@ -1,0 +1,38 @@
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.engine.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Test_Maquina_De_Cafe.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Test_Maquina_De_Cafe.pdb
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.framework.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.exe
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.pdb
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.exe.config
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.csproj.AssemblyReference.cache
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.AssemblyInfoInputs.cache
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.AssemblyInfo.cs
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maq.9098782D.Up2Date
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.dll
+C:\Users\Cristhian Taveras\source\repos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.engine.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Test_Maquina_De_Cafe.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Test_Maquina_De_Cafe.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\nunit.framework.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\bin\Debug\net48\Maquina_de_café_2.exe.config
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.AssemblyInfo.cs
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maq.9098782D.Up2Date
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Maquina_de_café_2\Test_Maquina_De_Cafe\obj\Debug\net48\Test_Maquina_De_Cafe.pdb
