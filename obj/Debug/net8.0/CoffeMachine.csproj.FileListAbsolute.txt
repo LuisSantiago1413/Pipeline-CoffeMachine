@@ -1,0 +1,5 @@
+C:\Users\3060\Desktop\CoffeMachine\obj\Debug\net8.0\CoffeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3060\Desktop\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfoInputs.cache
+C:\Users\3060\Desktop\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfo.cs
+C:\Users\3060\Desktop\CoffeMachine\obj\Debug\net8.0\CoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\3060\Desktop\CoffeMachine\obj\Debug\net8.0\CoffeMachine.sourcelink.json
